@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I have a telegram channel called <b>Chthonic Optimism</b>. It has 0 posts so far. Lives up to the name, kind of.
+subtitle:
 
 profile:
   align: right
@@ -29,6 +29,8 @@ latest_posts:
 
 Hi, this is my personal page. I am a quantitative sociologist from Kazakhstan. I am mostly interested in methodology, with a special fondness of network analysis. Also, I am passionate about rock climbing and drum'n'bass.
 
-The picture to the right is totally unrelated. As you can see I was using a template to create this page and I am too lazy to remove the picture. Also, I don't have any picture of myself that is good enough to put instead.
+The picture to the right is totally unrelated. As you can see I used a template to create this page and I am too lazy to remove the picture. Also, I don't have any picture of myself that is good enough to put instead.
 
 I will eventually transform this site into a something more personal. I hope.
+
+Also, I have a Telegram channel called <b>[Chthonic Optimism](https://t.me/+GnDONZs1kTk0ODNi)</b>. It has 0 posts and 0 subscribers so far. There is a certain poetic justice to that, I think.
