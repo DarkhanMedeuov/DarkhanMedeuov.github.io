@@ -34,7 +34,7 @@
       institution: Nazarbayev University, Astana, Kazakhstan
       year: 2019-2024
 
-    - title: Instructor
+    - title: Lecturer
       institution: L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
       year: 2014-2015
 
@@ -45,19 +45,14 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/darkhanmedeuov.github.io">al-folio</a>
+    - title: <a href="https://github.com/darkhanmedeuov.github.io">GitHub</a>
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Network Analysis
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Natural Language Processing
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Network Analysis, Natural Language Processing
+    #  items:
+    
 
 - title: Other Interests
   type: list
