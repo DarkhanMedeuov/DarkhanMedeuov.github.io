@@ -45,16 +45,22 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/darkhanmedeuov.github.io">GitHub</a>
+    - title: <a href="https://github.com/darkhanmedeuov">GitHub</a>
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Network Analysis, Natural Language Processing
-    #  items:
-    
+    - title: Network Analysis
+      items: 
+        - Exponential Random Graphs
+        - Stochastic Actor-Oriented Models
+    - title: Natural Language Processing
+      items:
+        - Semantic networks
+        - Corpus linguistics
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Rock climbing, Techno, DnB
+    - Rock climbing 
+    - Music (Techno, DnB)

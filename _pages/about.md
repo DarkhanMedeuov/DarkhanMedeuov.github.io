@@ -11,7 +11,7 @@ profile:
   more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -24,6 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, this is my personal page. I am a quantitative sociologist from Kazakhstan. I am mostly interested in methodology, with a special fondness of network analysis. Also, I am passionate about rock climbing and drum'n'bass.
-
-Also, I have a Telegram channel called <b>[Chthonic Optimism](https://t.me/+GnDONZs1kTk0ODNi)</b>. It has 0 posts and 0 subscribers so far. There is a certain poetic justice to that, I think.
+Hi, I am a quantitative sociologist from Kazakhstan. I am currently finishing my PhD at the University of Leipzig. Previously, I studied Sociology at Saint Petersburg State University (M.A.) and Philosophy at Kazakh National University (B.A.). Very broadly speaking, my general interest is the application of various statistical methods to social data. I have a versatile statistical toolkit, but my particular fondness is for network analysis.
