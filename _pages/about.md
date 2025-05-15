@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a quantitative sociologist from Kazakhstan. I am currently finishing my PhD at the University of Leipzig. Previously, I studied Sociology at Saint Petersburg State University (M.A.) and Philosophy at Kazakh National University (B.A.). Very broadly speaking, my general interest is the application of various statistical methods to social data. I have a versatile statistical toolkit, but my particular fondness is for network analysis.
+Hi, I am a quantitative sociologist from Kazakhstan. I am currently finishing my PhD at the University of Leipzig. Previously, I studied Sociology at Saint Petersburg State University (M.A.) and Philosophy at Kazakh National University (B.A.). Very broadly speaking, my interest is the application of various statistical methods to social data. I have a versatile statistical toolkit and I have worked on diverse projects. However, my special fondness is for network analysis.
