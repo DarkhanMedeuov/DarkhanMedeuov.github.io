@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image:
+  image: mainpage_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a quantitative sociologist from Kazakhstan. I am currently finishing my PhD at the University of Leipzig. Previously, I studied Sociology at Saint Petersburg State University (M.A.) and Philosophy at Kazakh National University (B.A.). Very broadly speaking, my interest is the application of various statistical methods to social data. I have a versatile statistical toolkit and I have worked on diverse projects. However, my special fondness is for network analysis.
+Hi, I am a quantitative sociologist from Kazakhstan, currently finishing my PhD at the University of Leipzig. Previously, I studied Sociology at Saint Petersburg State University (M.A.) and Philosophy at Kazakh National University (B.A.). Broadly speaking, my interest lies in applying various statistical methods to social data. I have a versatile statistical toolkit and have worked on diverse projects, including natural language processing, spatial statistics, and causal inference. My special fondness, however, is for network analysis.
+
+Besides sociology, I am passionate about rock climbing, hiking, magical realism, and classic RPGs.
